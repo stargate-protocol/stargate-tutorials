@@ -1,0 +1,4 @@
+[submodule "tutorial-protocol-composability"]
+	path = tutorial-protocol-composability
+	url = https://github.com/stargate-protocol/tutorial-protocol-composability.git
+    branch = main
