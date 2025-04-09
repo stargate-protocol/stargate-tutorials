@@ -2,3 +2,7 @@
 	path = tutorial-protocol-composability
 	url = https://github.com/stargate-protocol/tutorial-protocol-composability.git
     branch = main
+[submodule "tutorial-api-transfer"]
+	path = tutorial-api-transfer
+	url = https://github.com/stargate-protocol/tutorial-api-transfer.git
+    branch = main
